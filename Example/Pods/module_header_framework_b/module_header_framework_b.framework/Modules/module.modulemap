@@ -1,6 +1,0 @@
-framework module module_header_framework_b {
-  umbrella header "module_header_framework_b.h"
-
-  export *
-  module * { export * }
-}

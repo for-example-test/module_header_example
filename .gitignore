@@ -20,3 +20,5 @@ PlaygroundUtility.remap
 
 # Carthage
 Carthage/Build
+Example/Pods
+Example/Podfile.lock
