@@ -1,0 +1,6 @@
+module module_header_example {
+  umbrella header "module_header_example-umbrella.h"
+
+  export *
+  module * { export * }
+}

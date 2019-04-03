@@ -1,6 +1,8 @@
-use_frameworks!
+source 'https://github.com/for-example-test/PrivateSpecRepo.git'
 
 platform :ios, '8.0'
+
+use_modular_headers!
 
 target 'module_header_example_Example' do
   pod 'module_header_example', :path => '../'

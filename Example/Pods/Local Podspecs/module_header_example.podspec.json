@@ -1,0 +1,27 @@
+{
+  "name": "module_header_example",
+  "version": "0.1.0",
+  "summary": "A short description of module_header_example.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tripleCC/module_header_example",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tripleCC": "triplec.linux@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/tripleCC/module_header_example.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "module_header_example/Classes/**/*",
+  "dependencies": {
+    "module_header_framework_b": [
+
+    ]
+  }
+}
